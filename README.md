@@ -7,10 +7,10 @@ Although GitHub actions is powerful as-is, it can get complicated when consuming
 Imagine a scenario where, depending on the JSON output of an HTTP request you have to do an API call. You might be able to do this with a specialized action or workflow, but with Python it might be easier.
 
 <!---
-The full video is available on [YouTube](https://www.youtube.com/playlist?list=PLd5aRIS7MwjnS0tD_76sWMFVAxKaIcFWq), and the full course is also available on the [O'Reilly platform](https://learning.oreilly.com/videos/python-dictionaries-course/50136VIDEOPAIML/)
+The full video is available on [YouTube](https://www.youtube.com/playlist?list=PLd5aRIS7MwjnS0tD_76sWMFVAxKaIcFWq), and the full lesson is also available on the [O'Reilly platform](https://learning.oreilly.com/videos/python-dictionaries-course/50136VIDEOPAIML/)
 
 [![O'Reilly](https://learning.oreilly.com/covers/urn:orm:video:50136VIDEOPAIML/400w/)](https://learning.oreilly.com/videos/python-dictionaries-course/50136VIDEOPAIML/ "Deploy Containerized Apps on Azure")
-> 🎥 Click the image above to access the full course on O'Reilly
+> 🎥 Click the image above to access the full lesson on O'Reilly
 
 -->
 
@@ -23,9 +23,9 @@ The full video is available on [YouTube](https://www.youtube.com/playlist?list=P
 
 
 
-# Course Content
+# Lesson Content
 
-The easiest way of going through the full course is using the [O'Reilly platform](https://learning.oreilly.com/videos/python-dictionaries-course/50136VIDEOPAIML/) but you can start here as well and on [YouTube](https://youtu.be/Wu7j8z4B-1Y).
+The easiest way of going through the full lesson is using the [O'Reilly platform](https://learning.oreilly.com/videos/python-dictionaries-course/50136VIDEOPAIML/) but you can start here as well and on [YouTube](https://youtu.be/Wu7j8z4B-1Y).
 
 
 1. [Create a GitHub Action YAML file](./.github/workflows/script.yml)
@@ -36,7 +36,7 @@ The easiest way of going through the full course is using the [O'Reilly platform
 
 ## Learning Objectives
 
-In this course you will learn:
+In this lesson you will learn:
 
 - How to run a Python script with GitHub Actions
 - Create a Python script that can be executed from an Action
