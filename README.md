@@ -1,6 +1,6 @@
 # Python scripts in GitHub Actions
 
-Learn how to Rrn Python scripts on GitHub Actions! This allows you to handle logic that might be a bit more complex, like setting conditional behavior based on results.
+Learn how to run Python scripts on GitHub Actions! This allows you to handle logic that might be a bit more complex, like setting conditional behavior based on results.
 
 Although GitHub actions is powerful as-is, it can get complicated when consuming inputs from other sources like an HTTP request providing JSON output.
 
