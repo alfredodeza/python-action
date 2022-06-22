@@ -6,13 +6,11 @@ Although GitHub actions is powerful as-is, it can get complicated when consuming
 
 Imagine a scenario where, depending on the JSON output of an HTTP request you have to do an API call. You might be able to do this with a specialized action or workflow, but with Python it might be easier.
 
-<!---
-The full video is available on [YouTube](https://www.youtube.com/playlist?list=PLd5aRIS7MwjnS0tD_76sWMFVAxKaIcFWq), and the full lesson is also available on the [O'Reilly platform](https://learning.oreilly.com/videos/python-dictionaries-course/50136VIDEOPAIML/)
+The full video is available on [YouTube](https://www.youtube.com/watch?v=o2o_xF6NhD0), and the full lesson is also available on the [O'Reilly platform](https://learning.oreilly.com/videos/python-dictionaries-course/50137VIDEOPAIML/)
 
-[![O'Reilly](https://learning.oreilly.com/covers/urn:orm:video:50136VIDEOPAIML/400w/)](https://learning.oreilly.com/videos/python-dictionaries-course/50136VIDEOPAIML/ "Deploy Containerized Apps on Azure")
+[![O'Reilly](https://learning.oreilly.com/covers/urn:orm:video:50137VIDEOPAIML//400w/)](https://learning.oreilly.com/videos/run-python-in/50137VIDEOPAIML/ "Python in GitHub Actions")
 > 🎥 Click the image above to access the full lesson on O'Reilly
 
--->
 
 
 # Table of Contents
